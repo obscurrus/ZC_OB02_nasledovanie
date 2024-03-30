@@ -5,4 +5,4 @@
 + Практика: См. файл [lesson1.py](lesson1.py)
 
 ### домашнее задание
-+ 
++ См. файл [user_admin.py](user_admin.py)
